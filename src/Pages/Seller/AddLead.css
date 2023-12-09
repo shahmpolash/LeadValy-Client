@@ -1,0 +1,18 @@
+.person-info{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+    padding: 20px;
+    
+}
+.company-info{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.required-mark {
+    color: red; /* Change color as desired */
+    margin-left: 5px; /* Adjust spacing from the input field */
+    font-weight: bold; /* Make it bold or adjust font weight */
+  }

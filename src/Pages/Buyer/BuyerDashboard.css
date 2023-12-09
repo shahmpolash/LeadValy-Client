@@ -1,0 +1,9 @@
+.service-card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.service{
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+/* Example CSS - Adjust styles as needed */
+.support-email {
+    position: fixed;
+    top: 350px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; 
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .support-email a {
+    color: #333; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .support-email a i {
+    margin-right: 5px;
+  }

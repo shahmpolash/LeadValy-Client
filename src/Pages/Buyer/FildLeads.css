@@ -1,0 +1,52 @@
+.search input{
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.user-img{
+  width: 35px;
+}
+
+.data-table{
+  margin-top: 5px;
+}
+
+
+.form-control__find__lead {
+    padding: .375rem .75rem;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #495057;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.form-control__find__lead__font{
+    font-size: 20px;
+}
+
+@media (min-width: 992px) {
+    .form-control__find__lead {
+      width: 28%;
+    }
+  }
+  
+  @media (max-width: 991.98px) {
+    .form-control__find__lead {
+      width: 100%;
+    }
+  }
+
+/* For large devices (e.g., screens wider than 992px) */
+@media (min-width: 992px) {
+  .modal-dialog {
+    max-width: 60%;
+  }
+}
+
+
+  
